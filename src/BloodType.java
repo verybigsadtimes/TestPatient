@@ -1,0 +1,1 @@
+enum BloodType {O, A, B, AB} //crazy stuff
